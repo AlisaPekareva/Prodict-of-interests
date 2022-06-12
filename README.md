@@ -1,2 +1,2 @@
-# Prodict-of-interests
+# Product-of-interests
 Script Catalog of interests
